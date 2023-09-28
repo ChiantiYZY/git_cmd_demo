@@ -1,2 +1,2 @@
 # git_cmd_demo
-demo for common git commands
+This is a demo for common git commands
